@@ -3,9 +3,13 @@
 Asteroids game
 
 up: speed up
+
 down: slow down
+
 left: turn left
+
 right: turn right
+
 shift: flash
 
 ## 背景
